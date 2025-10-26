@@ -1,11 +1,6 @@
  ## Hi, I am Fabio!
 
  I am a CS student at Univeristy of Minho, in Braga, Portugal. </br>
- I code in:</br>
- 🟡 Python</br>
- 🔵 C</br>
- 🟣 Haskell
-
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabio-henrique14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fabiohenriquealves14@gmail.com) 
